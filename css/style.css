@@ -1,0 +1,28 @@
+@charset "utf-8";
+*{margin: 0; padding: 0;}
+a{
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+img{
+    display: block;
+}
+#bgvideo{
+    min-width:100%; 
+    min-height:100vh;
+    position: fixed;
+    width:auto;
+    height:auto;
+    z-index: -999;
+}
+/* #wrap{
+    width: 100%;
+    height: 100vh;
+} */
+.title{
+text-align: right;
+position: absolute;
+top: 50%; left: 50%; 
+transform: translate(-50%,-50%);   
+}
