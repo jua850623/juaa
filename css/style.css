@@ -24,5 +24,7 @@ img{
 text-align: right;
 position: absolute;
 top: 50%; left: 50%; 
-transform: translate(-50%,-50%);   
+transform: translate(-50%,-50%);  
+color: rgb(73, 70, 66); 
+
 }
